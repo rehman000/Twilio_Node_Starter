@@ -10,5 +10,5 @@
 6.  Run npm run dev to start the application: 
 
 
-![GitHub Logo](/images/logo.png)
+![Application](/Application.png)
 Format: ![Alt Text](url)
